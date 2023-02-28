@@ -9,7 +9,8 @@ private slots:
   void initTestCase();
 
   void testUnderlined();
-  void testInternationalization();
+  void testLocalization();
+  void testAlignTextRight();
 
   void cleanupTestCase();
 
